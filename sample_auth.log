@@ -1,0 +1,7 @@
+Feb 10 10:12:11 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 53422 ssh2
+Feb 10 10:12:14 server sshd[1235]: Failed password for invalid user root from 192.168.1.10 port 53423 ssh2
+Feb 10 10:12:18 server sshd[1236]: Failed password for invalid user test from 192.168.1.10 port 53424 ssh2
+Feb 10 10:12:21 server sshd[1237]: Failed password for invalid user guest from 192.168.1.10 port 53425 ssh2
+Feb 10 10:12:25 server sshd[1238]: Failed password for invalid user user from 192.168.1.10 port 53426 ssh2
+Feb 10 10:13:01 server sshd[1240]: Failed password for invalid user admin from 203.0.113.5 port 60012 ssh2
+Feb 10 10:13:10 server sshd[1241]: Failed password for invalid user admin from 203.0.113.5 port 60013 ssh2
